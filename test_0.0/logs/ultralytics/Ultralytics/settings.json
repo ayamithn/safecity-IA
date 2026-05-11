@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "C:\\Users\\ayman\\OneDrive\\Bureau\\test_0.0\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "eb50ceb750f5ce4ac70ed0c9dc9e8f07174e1d4f38488206ec13c8dd622d0a23",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

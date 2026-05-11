@@ -1,0 +1,15 @@
+path: training/dataset
+train: images/train
+val: images/val
+
+names:
+  0: pistol
+  1: rifle
+  2: knife
+  3: machete
+  4: baton
+  5: hammer
+  6: screwdriver
+  7: crowbar
+  8: metal_bar
+  9: threatening_tool

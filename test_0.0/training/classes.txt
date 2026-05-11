@@ -1,0 +1,10 @@
+pistol
+rifle
+knife
+machete
+baton
+hammer
+screwdriver
+crowbar
+metal_bar
+threatening_tool

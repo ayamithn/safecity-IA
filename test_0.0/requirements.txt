@@ -1,0 +1,5 @@
+opencv-python
+ultralytics
+PySide6
+numpy
+pillow
